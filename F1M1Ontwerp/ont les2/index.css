@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(218, 59, 59);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  li {
+      color: red;
+      text-align: center;
+  }
+
+  ol {
+      color: red;
+      text-align: center;
+  }
+
+  
