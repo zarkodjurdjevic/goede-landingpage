@@ -3,4 +3,6 @@ link naar live versie: http://31924.hosts1.ma-cloud.nl/F1M1Ontwerp/goedelandingp
 
 les 02 link http://31924.hosts1.ma-cloud.nl/ont%20les2/index.html
 
+hier komt de link van de bootstrap les alleen nog online zetten
+
 
